@@ -1,5 +1,5 @@
 {
-  "name": "micro-react-app",
+  "name": "create-lucy-lego",
   "version": "1.0.0",
   "description": "",
   "main": "template.json",
@@ -45,6 +45,6 @@
     "react-router-dom": "^5.2.0"
   },
   "bin": {
-    "create-boilerplate": "./create-app.js"
+    "create-lucy-lego": "./bin/create-app.js"
   }
 }
